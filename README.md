@@ -1,0 +1,1 @@
+In this project, I: Imported a pre populated database into MySQL called sakila * Wrote SQL to view and query data from the database * Wrote SQL to insert, update and delete records in the database.
